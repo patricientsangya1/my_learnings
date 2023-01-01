@@ -1,2 +1,2 @@
 # my_learnings
-This repo will be used for learning
+This a springboot ptoject built on MVC logic using Java
